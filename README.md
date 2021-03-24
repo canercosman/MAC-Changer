@@ -8,4 +8,4 @@ Options:
   -h  --help       show this help message and exit
   -i  --interface  Interface to change!
   -m  --mac        New MAC address!
-<pre>
+</pre>
